@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dishujindal-source/my-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dishujindal-source/my-app.git/static/js/main.62c1fec1.chunk.js",
+    "main.js.map": "/dishujindal-source/my-app.git/static/js/main.62c1fec1.chunk.js.map",
+    "runtime-main.js": "/dishujindal-source/my-app.git/static/js/runtime-main.cd68fe47.js",
+    "runtime-main.js.map": "/dishujindal-source/my-app.git/static/js/runtime-main.cd68fe47.js.map",
+    "static/js/2.763b34e5.chunk.js": "/dishujindal-source/my-app.git/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/dishujindal-source/my-app.git/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/dishujindal-source/my-app.git/index.html",
+    "precache-manifest.7790cb553c527bdfeb22daea53876f5e.js": "/dishujindal-source/my-app.git/precache-manifest.7790cb553c527bdfeb22daea53876f5e.js",
+    "service-worker.js": "/dishujindal-source/my-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dishujindal-source/my-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/dishujindal-source/my-app.git/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dishujindal-source/my-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd68fe47.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.62c1fec1.chunk.js"
+  ]
+}
